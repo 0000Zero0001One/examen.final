@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "/examen.final",
+  base: "/examen.final/",
   plugins: [react()],
 })
