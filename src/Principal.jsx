@@ -43,8 +43,8 @@ function Principal(props){
             
             <div className="Contenido">
                 <Routes>
-                    <Route path="/" element={<Parte1 />}></Route>
-                    <Route path="/pag2" element={<Parte2 />}></Route>
+                    <Route path="/examen.final/" element={<Parte1 />}></Route>
+                    <Route path="/examen.final/pag2" element={<Parte2 />}></Route>
                 </Routes>
             </div>
 

@@ -29,7 +29,7 @@ function BarraNav() {
               <a className="nav-link active" aria-current="page" href="/">Inicio</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="/pag2">Oferta de Cursos</a>
+              <a className="nav-link" href="/examen.final/pag2">Oferta de Cursos</a>
             </li>
             <li className="nav-item">
               <a className="nav-link" href="/services"></a>
